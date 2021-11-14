@@ -1,9 +1,0 @@
-#!/bin/bash
-cd group22 
-mkdir group22_{1..3}
-cd group22_1
-touch 1.txt 2.txt 3.txt 1.json 2.json
-mkdir group22_1_{1..3}
-ls -l
-mv {group22_1/1.txt,group22_1/2.txt} group22_2
-
