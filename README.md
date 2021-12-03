@@ -1,1 +1,1 @@
-# GROUP_22
+# Testing course
